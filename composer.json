@@ -1,5 +1,5 @@
 {
-    "name": "nahid/php-sslwireless-sms",
+    "name": "shipu/php-sslwireless-sms",
     "description": "PHP client for SSL Wireless SMS API",
     "keywords": ["SSL Wireless", "php", "api", "sms", "php-ssl-sms"],
     "type": "library",
